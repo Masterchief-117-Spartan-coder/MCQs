@@ -1,0 +1,294 @@
+79
+Which of the following statement is true?
+(a) Electrostatic force is a conservative force.
+(b) Potential at a point is the work done per unit charge in bringing a charge from any point to infinity.
+(c) Electrostatic force is non-conservative
+(d) Potential is the productof charge and work.
+Answer: a
+80
+The work done in bringing a unit positive charge from infinite distance to a point at distance x from a positive charge Q is W. Then the potential at that point is
+(a) WQ / x
+(b) W
+(c) W / x
+(d) WQ
+Answer: d
+81
+Consider a uniform electric field in the z-direction. The potential is a constant
+(a) for any x for a given z
+(b) for any y for a given z
+(c) on the x-y plane for a given z
+(d) all of these
+Answer: d
+82
+Equipotential surfaces
+(a) are closer in regions of large electric fields compared to regions of lower electric fields.
+(b) will be more crowded near sharp edges of a conductor.
+(c) will always be equally spaced.
+(d) both (a) and (b) are correct.
+Answer: d
+83
+In a region of constant potential
+(a) the electric field is uniform.
+(b) the electric field is zero.
+(c) there can be no charge inside the region.
+(d) both (b) and (c) are correct.
+Answer: d
+84
+ A test charge is moved from lower potential point to a higher potential point. The potential energy of test charge will
+(a) remain the same
+(b) increase
+(c) decrease
+(d) become zero
+Answer: c
+85
+An electric dipole of moment p?  is placed in a uniform electric field E?  . Then (i) the torque on the dipole is p?  × E? (ii) the potential energy of the system is p?  . E? (iii) the resultant force on the dipole is zero. Choose the correct option.
+(a) (i), (ii) and (iii) are correct
+(b) (i) and (iii) are correct and (ii) is wrong
+(c) only (i) is correct
+(d) (i) and (ii) are correct and (iii) is wrong
+Answer: b
+86
+If a conductor has a potential V != 0 and there are no charges anywhere else outside, then
+(a) there must be charges on the surface or in¬side itself.
+(b) there cannot be any charge in the body of the conductor.
+(c) there must be charges only on the surface.
+(d) both (a) and (b) are correct.
+Answer: c
+87
+Which of the following statements is false for a perfect conductor?
+(a) The surface of the conductor is an equipoten-tial surface.
+(b) The electric field just outside the surface of a conductor is perpendicular to the surface.
+(c) The charge carried by a conductor is always uniformly distributed over the surface of the conductor.
+(d) None of these.
+Answer: d
+88
+ Dielectric constant for a metal is
+(a) zero
+(b) infinite
+(c) 1
+(d) 10
+Answer: b
+89
+When air is replaced by a dielectric medium of constant K, the maximum force of attraction between two charges separated by a distance
+(a) increases K times
+(b) remains unchanged
+(c) decreases K times
+(d) increases K^-1 times
+Answer: c
+90
+In a parallel plate capacitor, the capacity increases if
+(a) area of the plate is decreased.
+(b) distance between the plates increases.
+(c) area of the plate is increased.
+(d) dielectric constantly decreases.
+Answer: c
+91
+A parallel plate air capacitor is charged to a potential difference of V volts. After disconnecting the charging battery the distance between the plates of the capacitor is increased using an insulating handle. As a result the potential difference between the plates
+(a) increases
+(b) decreases
+(c) does not change
+(d) becomes zero
+Answer: a
+92
+Two identical capacitors are joined in parallel, charged to a potential V, separated and then connected in series, the positive plate of one is connected to the negative of the other. Which of the following is true?
+(a) The charges on the free plated connected to-gether are destroyed.
+(b) The energy stored in ths system increases.
+(c) The potential difference between the free plates is 2V.
+(d) The potential difference remains constant.
+Answer: c
+93
+ A capacitor has some dielectric between its plates, and the capacitor is connected to a dc source. The battery is now disconnected and then the dielectric is removed, then
+(a) capacitance will increase.
+(b) energy stored will decrease.
+(c) electric field will increase.
+(d) voltage will decrease.
+Answer: c
+94
+ Two spherical conductors each of capacity C are charged to potential V and -V. These are then connected by means of a fine wire. The loss of energy is
+(a) zero
+(b) (1/2)CV^2
+(c) CV^2
+(d) 2 CV^2
+Answer: c
+95
+The dimensions of fall of potential per unit distance are given by:
+(a) [MLT^-3 A^-1]
+(b) [ML^2T^-2A^-1]
+(c) [ML^2T^-2A^-3]
+(d) [MLT^-2A^-2]
+Answer: c
+96
+Which of the following is blocked by a capacitor ?
+(a) A.C.
+(b) D.C.
+(c) Both A.C. and D.C.
+(d) Neither A.C. nor D. C
+Answer: b
+97
+Two copper spheres of the same radius, one solid and the other hollow, are charged to the same potential. Which will have more charge?
+(a) Solid sphere
+(b) Hollow sphere
+(c) Both will have an equal charge
+(d) None of these
+Answer: c
+98
+The capacitance of a capacitor will decrease if we introduce a slab of:
+(a) copper
+(b) aluminium
+(c) zinc
+(d) None of these
+Answer: d
+99
+Two capacitors of capacitance 6 µF and 4 mico F are put in series across a 120 V battery. What is the potential difference across the 4 microF capacitor ?
+(a) 72 V
+(b) 60 V
+(c) 48 V
+(d) zero
+Answer: a
+100
+In which of the following forms is the energy stored in a capacitor?
+(a) Charge
+(b) Potential
+(c) Capacitance
+(d) Electric field
+Answer: d
+101
+Two conducting spheres of radii r1 and r2 are equally charged. The ratio of their potential is
+(a) (r1 / r2)^2
+(b) (r1 r2)^2
+(c)(r1 / r2)
+(d) (r2 / r1)
+Answer: b
+102
+Twenty seven drops of mercury are charged simultaneously to the same potential of 10 volts. What will be potential if all the charged drops are made to combine to form one large drop ?
+(a) 180 V
+(b) 90 V
+(c) 120 V
+(d) 45 V
+Answer: b
+103
+The P.E. of an electric dipole is maximum when it makes an angle ? with electric field. The value of ? is :
+(a) (pi)2
+(b) (pi)
+(c) zero
+(d) 3(pi) / 2
+Answer: b
+104
+The amount of work required to increase the distance between -6 micro C and 4 micro C from 6 cm to 18 cm will be :
+(a) 1.8 J
+(b) 2.4 J
+(c) 1.8 micro J
+(d) 2.4 micro J
+Answer: b
+105
+An electron initially at rest is accelerated through a potential difference of one volt. The energy gained by electron is:
+(a) 1 J
+(b) 1.6 × 10^-19 J
+(c) 10^-19 J
+(d) None of these
+Answer: b
+106
+Choose the SI unit of electric potential energy :
+(a) Joule
+(b) Coulomb
+(c) Netwon per coulomb
+(d) Erg
+Answer: a
+107
+The capacitance of earth, viewed as a spherical conductor of radius 6408 km is:
+(a) 1420 micro F
+(b) 712 micro F
+(c) 680 micro F
+(d) 540 micro F
+Answer: b
+108
+A capacitor is connected to a cell of emf E having some internal resistance r, the potential across the:
+(a) cell is < E
+(b) cell is E
+(b) cell is > E
+(d) capacitor is E
+Answer: b
+109
+If a +ve charge is moved from low to high potential region, the electric potential energy:
+(a) decreases
+(b) increases
+(c) remain the same
+(d) may increase or decrease
+Answer: b
+110
+A capacitor is connected across a battery and the plate separation of capacitor is increased without removing the battery, then:
+(a) capacitance will increase
+(b) charge stored will increase
+(c) energy stored will decrease
+(d) potential difference will increase
+Answer: c
+111
+Two capacitors of 3 micro F and 6 micro F are connected in series with a battery of P.d. 12 V. The P.d. across 3 micro F and 6 micro F capacitors respectively will be :
+(a) 8 V, 4 V
+(b) 6 V, 6 V
+(c) 4 V, 8 V
+(d) 9 V, 3 V
+Answer: a
+112
+An electric charge of 425 f micro C is removed from a fully charged capacitor of capacitance 8.5 micro F. Its potential will be lowered by:
+(a) 75 V
+(b) 100 V
+(c) 85 V
+(d) 50 V
+Answer: b
+113
+Minimum number of capacitor of 2 micro F each required to obtain a capacitance of 5 micro F will be:
+(a) 4
+(b) 3
+(c) 5
+(d) 6
+Answer: a
+114
+When a dielectric slab is introduced between the plates of a parallel plate capacitor which remains connected to a battery then charge on the plates relative to earlier charge is :
+(a) more
+(b) less
+(c) less or may be more
+(d) same
+Answer: a
+115
+Choose the vector physical quantity:
+(a) Electric flux
+(b) Electric potential
+(c) Electric potential energy
+(d) Electric intensity
+Answer: d
+116
+The surface density of charge is measure:
+(a) Cm-1
+(b) Cm-2
+(c) Cm-3
+(d) JC-1
+Answer: b
+117
+A polythene piece rubbed with wool is found to have a negative charge of 6.4 × 10^-9c. How many electrons have been transferred during the process?
+(a) 4 × 10^12
+(b) 4 × 10^11
+(c) 4 × 10^10
+(d) None of these
+Answer: c
+118
+What is the number of electrons in 100 g water?
+(a) 3.35 × 1024
+(b) 3.35 × 1025
+(c) 6.02 × 1023
+(d) None of these
+Answer: a
+119
+A uniform electric field of 10 NC^-1 exists in the vertically downward direction. What is the increase in the electric potential as one goes up through a height of 300 cm ?
+(a) 15 V
+(b) 30 V
+(c) 45V
+(d) None of these
+Answer: b
+120
+The electric potential of earth is taken as:
+(a) zero
+(b) infinity
+(c) unity
+(d) None of these
+Answer: a

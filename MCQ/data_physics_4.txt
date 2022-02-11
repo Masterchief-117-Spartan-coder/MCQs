@@ -1,0 +1,91 @@
+121
+Equipotentials at a great distance from a collection of charges whose total sum is not zero are approximately
+(a) spheres
+(b) planes
+(c) paraboloids
+(d) ellipsoids
+Answer: a
+122
+A positively charged particle is released from rest in an uniform electric field. The electric potential energy of the charge
+(a) remains a constant because the electric field is uniform.
+(b) increases because the charge moves along the electric field.
+(c) decreases because the charge moves along the electric field.
+(d) decreases because the charge moves opposite to the electric field.
+Answer: c
+123
+Two small spheres each carrying a charge q are placed r metre apart. If one of the spheres is taken around the other one in a circular path of radius r, the work done will be equal to
+(a) force between them × r
+(b) force between them × 2(pi)r
+(c) force between them/2(pi)r
+(d) zero
+Answer: d
+124
+The electric potential V at any point O (x, y, z all in metres) in space is given by V = 4x^2 volt. The electric field at the point (1 m, 0, 2 m) in volt/metre is
+(a) 8 along negative x-axis
+(b) 8 along positive x-axis
+(c) 16 along negative x-axis
+(d) 16 along positive z-axis
+Answer: a
+125
+If a unit positive charge is taken from one point to another over an equipotential surface, then
+(a) work is done on the charge.
+(b) work is done by the charge.
+(c) work done is constant.
+(d) no work is done.
+Answer: d
+126
+A hollow metal sphere of radius 5 cm is charged so that the potential on its surface is 10 V. The potential at the centre of the sphere is
+(a) 0 V
+(b) 10 V
+(c) Same as at point 5 cm away from the surface
+(d) Same as at point 25 cm away from the surface
+Answer: b
+127
+The electrostatic force between the metal plates of an isolated parallel plate capacitor C having a charge Q and area A, is
+(a) proportional to the square root of the distance between the plates.
+(b) linearly proportional to the distance between the plates.
+(c) independent of the distance between the plates.
+(d) inversely proportional to the distance between the plates.
+Answer: c
+128
+A capacitor is charged by a battery. The battery is removed and another identical uncharged capacitor is connected in parallel. The total electrostatic energy of resulting system
+(a) increases by a factor of 4.
+(b) decreases by a factor of 2.
+(c) remains the same.
+(d) increases by a factor of 2.
+Answer: b
+129
+ A conductor with a positive charge
+(a) is always at +ve potential.
+(b) is always at zero potential.
+(c) is always at negative potential.
+(d) may be at +ve, zero or -ve potential.
+Answer: d
+130
+Which of the following options are correct? If a conductor has a potential V 4- 0 and there are no charges anywhere else outside, then
+(a) there must not be charges on the surface or inside itself.
+(b) there cannot be any charge in the body of the conductor.
+(c) there must be charges only on the surface.
+(d) there must be charges inside the surface.
+Answer: b
+131
+The radii of two metallic spheres A and B are r1 and r2 respectively (r1 > r2). They are connected by a thin wire and the system is given a certain charge. The charge will be greater
+(a) on the surface of the sphere B.
+(b) on the surface of the sphere A.
+(c) equal on both.
+(d) zero on both.
+Answer: b
+132
+A parallel plate condenser is connected with the terminals of a battery. The distance between the plates is 6mm. If a glass plate (dielectric constant K = 9) of 4.5 mm is introduced between them, then the capacity will become
+(a) 2 times.
+(b) the same.
+(c) 3 times.
+(d) 4 times.
+Answer: c
+133
+Which of the following statement is true?
+(a) Electrostatic force is a conservative force.
+(b) Potential at a point is the work done per unit charge in bringing a charge from any point to infinity.
+(c) Electrostatic force is non-conservative
+(d) Potential is the product of charge and work.
+Answer: a

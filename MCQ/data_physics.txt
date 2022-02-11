@@ -1,0 +1,231 @@
+﻿10
+Which one of the following is the unit of electric field?
+(a) Coulomb
+(b) Newton
+(c) Volt
+(d) N/C
+Answer: d
+11
+Three charges + 3q + q and Q are placed on a st. line with equal separation. In order to maket the net force on q to be zero, the value of Q will be :
+(a) +3q
+(b) +2q
+(c) -3q
+(d) -4q
+Answer: a
+12
+If an electric dipole is kept in a uniform electric field then resultant electric force on it is :
+(a) always zero
+(b) never zero
+(c) depend upon capacity of dipole
+(d) None
+Answer: a
+13
+The number of electron-taken out from a body to produce 1 coulomb of charge will be :
+(a) 6.25 × 1018
+(b) 625 × 1018
+(c) 6.023 × 1023
+(d) None
+Answer: a
+14
+The work done in rotating an electric dipole in an electric field:
+(a) W = ME (1 – cos θ)
+(b) W = ME tan θ
+(c)W = ME sec θ
+(d) None
+Answer: a
+15
+If sphere of bad conductor is given charge then it is distributed on:
+(a) surface
+(b) inside the surface
+(c) only inside the surface
+(d) None
+Answer: d
+16
+Electric field in a cavity of metal:
+(a) depends upon the surroundings
+(b) depends upon the size of cavity
+(c) is always zero
+(d) is not necessarily zero
+Answer: d
+17
+The dielectric constant of a metal is:
+(a) 0
+(b) 1
+(c) infinite
+(d) -1
+Answer: c
+18
+1 coulomb is equal to:
+(a) 3 × 10^9 e.s.u.
+(b) 1/3 × 10^9 e.s.u.
+(c) 3 × 10^10 e.s.u.
+(d) 1/3 × 10^10 e.s.u.
+Answer: a
+19
+Each of the two point charges are doubled and their distance is halved. Force of interaction becomes p times, w here p is :
+(a) 1
+(b) 4
+(c) 1/16
+(d) 16
+Answer: d
+20
+Coulomb’s law in vector form can be written as, F->  = (1/4πεn) (q1q2/r2)r->, where ε0 is the permitivity of free space. The SI units of ε0 will be:
+(a) N^-1m^-2C^-2
+(b) Nm^-2C^2
+(c) N^-1m^-2C^9.
+(d) Nm^-2C^2
+Answer: c
+21
+The dimensional representation of cu will be :
+(a) [MLT^4 A^2]
+(b) [M^-1L^-3T^4A^2]
+(c)[ML^-2T ]
+(d) None of these
+Answer: b
+22
+When placed in a uniform field, a dipole experiences:
+(a) a net force
+(b) a torque
+(c) both a net force and torque
+(d) neither a net force nor a torque
+Answer: b
+23
+A parrot comes and sits on a bare high power line. It will:
+(a) experience a mild shock
+(b) experience a strong shock.
+(c) get killed instantaneously
+(d) not be affected practically
+Answer: d
+24
+The SI units of electric dipole moment are:
+(a) C
+(b) Cm^-1
+(c) Cm
+(d) Nm^-1
+Answer: c
+25
+If two conducting sphere are connected after charging separately then:
+(a) Electrostatic energy sphere energy will remain conserved
+(b) Electrostatic energy charges remains conserved
+(c) Electrostatic energy energy and charge remains conserved
+(d) None
+Answer: b
+26
+A soap bubble is given a negative charge, then its radius:
+(a) increases
+(b) decreases
+(c) remains unchanged
+(d) may increase or decrease
+Answer: a
+27
+In non-uniform electric field, electric dipole experiences:
+(a) torque only
+(b) torque as well as net force
+(c) force only
+(d) None of these
+Answer: b
+28
+An electron is sent in an electric field of magnitude 9.1 × 106NC-1. The acceleration produced in it is :
+(a) 1.6 ms^-2
+(b) 1.6 × 10^18ms^-2
+(c) 3.2 × 10^18ms^-2
+(d) 0.8 × 10^18 ms^-2
+Answer: b
+29
+A semicircular arc of radius r is charged uniformly and the charge per unit length is λ. The electric field at the centre is:
+(a) lambda/2 lambda epsilon_naught r2
+(b) lambda/4 pi epsilon_naught r
+(c) lambda/22 pi epsilon_naught r
+(d) lambda/2 pi epsilon_naught r
+Answer: b
+30
+When a dipole of moment p->  is placed in uniform electric field E-> , then the torque acting on the dipole is:
+(a) τ->  = p-> .E-> 
+(b) τ->  = P->  + E-> 
+(c) τ->  = p->  + E-> 
+(d ) τ->  = p-> – E->
+Answer: c
+31
+Two point charges +8q and -2q are located at ,v = O and ,v = L respectively. The location of a point on the .v-axis at which the net electric field due to these two point charges b is zero :
+(a) 4L
+(b) 8L
+(c) L/4
+(d) 2L
+Answer: d
+32
+The graph drawn between V are r for a non-conducting charged solid sphere of radius R for r < R will be :
+(a) straight line
+(b) parabola
+(c) hyperbola
+(d) None of these
+Answer: d
+33
+Corona discharge takes place:
+(a) at the surface of a conductor
+(b) near the sharp points of a conductor
+(c) outside the conductor
+(d) at the centre of the conductor
+Answer: b
+34
+The belt of a Vande Graaf generator gets charge by :
+(a) corona discharge
+(b) induction
+(c) electrification
+(d) None of these
+Answer: a
+35
+Quantisation of charge implies:
+(a) Charge does not exist
+(b) Charge exists on particles
+(c) There is a minimum permissible magnitude of charge
+(d) Charge can’t be created
+Answer: c
+36
+The conservation of electric charge implies that:
+(a) Charge can’t be created
+(b) Charge can’t be destroyed
+(c) The number of charged particle in the universe is constant
+(d) Simultaneous creation of equal and opposite charges is permissible
+Answer: d
+37
+The number of electrons contained in one coulomb of charge is:
+(a) 6.25 × 10^18
+(b) 6.25 × 10^17
+(c) 6.25 × 10^19
+(d) 1.6 × 10^19
+Answer: a
+38
+The unit of intensity of electric field is :
+(a) metre/volt
+(b) Joule/newton
+(c) Coulomb/newton
+(d) Newton/coulomb
+Answer: a
+39
+1 V equals to:
+(a) 1 J
+(b) 1 JC^-1
+(c) 1 CJ^-1
+(d) 1 JC
+Answer: b
+40
+1 V m-1 equals to:
+(a) 1 N
+(b) 1 Mm^-1
+(c) 1 NC^-1
+(d) 1 J^-1
+Answer: c
+41
+The minimum amount of charge observed so far is:
+(a) 1 C
+(b) 4.8 × 1^-13 C
+(c) 1.6 × 10^-19 C
+(d) 1.6 × 10^19 C
+Answer: c
+42
+The ratio of electric force between two electrons to the gravitational force between them is of the order:
+(a) 10^42
+(b) 10^39
+(c) 10^36
+(d) 1
+Answer: a

@@ -1,0 +1,56 @@
+﻿292
+A charge Q is placed at the centre of the line joining two point charges +q and +q as shown in the figure. The ratio of charges Q and q is
+(a) 4
+(b) 1/4
+(c) -4
+(d) -1/4
+Answer
+Answer: d
+8. The SI unit of electric flux is
+(a) N C-1 m-2
+(b) N C m-2
+(c) N C-2 m2
+(d) N C-1 m2
+Answer
+Answer: d
+9. The unit of electric dipole moment is
+(a) newton
+(b) coulomb
+(c) farad
+(d) debye
+Answer
+Answer: d
+10. Consider a region inside which, there are various types of charges but the total charge is zero. At points outside the region
+(a) the electric field is necessarily zero.
+(b) the electric field is due to the dipole moment of the charge distribution only.
+(c) the dominant electric field is inversely pro-portional to r3, for large r (distance from ori-gin).
+(d) the work done to move a charged particle along a closed path, away from the region will not be zero.
+Answer
+Answer: c
+2. If an object is positively charged, theoretically the mass of the object ______
+a) Increases slightly by a factor of 9.11*10-31 kg
+b) Decreases slightly by a factor of 9.11*10-31 kg
+c) Remains the same
+d) May increase or decrease
+View Answer
+
+Answer: b
+Explanation: If an object is positively charged it loses some of its electrons. The mass of an electron is 9.11*10-31 kg. So, if a positively charged body loses ‘n’ number of electrons, it mass decrease by the amount n*9.11E-31kg.
+3. Why is gold used in the Gold-leaf electroscope?
+a) Gold is easily available in nature
+b) Gold is malleable
+c) Gold is conducting in nature
+d) Gold is cheap
+View Answer
+
+Answer: b
+Explanation: Though gold is a costly metal it is used in electroscope because of the property malleability. This means very thin and light sheets can be formed from gold simply by hammering or rolling and hence the deflection of the light gold plates increases.
+4. What happens to the plates of the apparatus if we measure alternating charge using a Gold-leaf oscilloscope?
+a) It doesn’t diverge at all
+b) It diverges momentarily
+c) The plates give a proper divergence
+d) The degree of divergence increases and decreases repeatedly
+View Answer
+
+Answer: c
+Explanation: The divergence of the plates of the Gold-leaf oscilloscope depends only on the presence of a charge, not on the quality of charge i.e. positive or negative. So, if the charge changes from positive to negative and vice versa the degree of divergence of the plates remains the same.

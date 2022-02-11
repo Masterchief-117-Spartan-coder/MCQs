@@ -1,0 +1,252 @@
+43
+The position of the charge inside the enclosing surface is changed in such a way that the total charge remains constant. Then the total normal electric flux through the enclosing surface:
+(a) increases
+(b) decreases
+(c) changes erratically
+(d) Remains unchanged.
+Answer: d
+44
+Which of the following method is an indirect method of charging:
+(a) charging by induction
+(b) charging by physical contact
+(c) charging by friction
+(d) none of these.
+Answer: a
+45
+Two point charges each of 20 �C are placed 50 cm apart in air. What is the electric field intensity at the mid point on the line joining the centre of two point charges?
+(a) 5 � 106 NC-1
+(b) 18 � 106 NC-1
+(c) Zero
+(d) None of these
+Answer: c
+46
+An electric dipole of moment p is placed in the position of stable equilibrium in a uniform electric field E-> . The couple required to rotate it through an angle ? the initial position is:
+(a) -PE cos ?
+(b) PE tan ?
+(c) PE cos ?
+(d) PE sin ?
+Answer: d
+47
+When two charged spheres are connected with a wire, the electric charge on them is shared:
+(a) inversely as their capacity
+(b) equally
+(c) in proportional to their capacity
+(d) None of these.
+Answer: b
+48
+A unit Coulomb charge is one which when placed in air at a distance of 1 m from an equal and similar charge repel it with a force of
+(a) 9 � 10^9 N
+(b) 1 N
+(c) 1 dyne
+(d) None of these.
+Answer: a
+49
+When distance between two charges is reduced to one-half of the original distance, the force between them will remain the same if one of the charges is made:
+(a) one fourth
+(b) four times
+(c) double
+(d) one-halftimes.
+Answer: a
+50
+Static electricity is produced by
+(a) induction only
+(b) friction
+(c) chemical reaction only
+(d) friction and induction both.
+Answer: b
+51
+If electric flux through a closed surface is zero. It means that:
+(a) the net charge inside the surface is zero.
+(b) the electric field is necessarily zero at all points on the surface.
+(c) no charge exists inside the surface.
+(d) no charge exists outside the surface.
+Answer: a
+52
+In comparison With the electrostatic force between two electrons, the electrostatic force between two protons is:
+(a) greater
+(b) smaller
+(c) zero
+(d) same.
+Answer: d
+53
+Charge is
+(a) transferable
+(b) associated with mass
+(c) conserved
+(d) All of these
+Answer: d
+54
+A body is positively charged, it implies that
+(a) there is only positive charge in the body.
+(b) there is positive as well as negative charge in the body but the positive charge is more than negative charge
+(c) there is equal positive and negative charge in the body but the positive charge lies in the outer regions
+(d) negative charge is displaced from its position
+Answer: b
+55
+On rubbing, when one body gets positively charged and other negatively charged, the electrons transferred from positively charged body to negatively charged body are
+(a) valence electrons only
+(b) electrons of inner shells
+(c) both valence electrons and electrons of inner shell
+(d) yet to be established
+Answer: a
+56
+Which of the following is the best insulator?
+(a) Carbon
+(b) Paper
+(c) Graphite
+(d) Ebonite
+Answer: d
+57
+Two spheres A and B of exactly same mass are given equalpositive and negative charges respectively. Their masses after charging
+(a) remains unaffected
+(b) mass of A > mass of B
+(c) mass of A < mass of B
+(d) Nothing can be said
+Answer: c
+58
+The law, governing the force between electric charges is known as
+(a) Ampere�s law
+(b) Ohm�s law
+(c) Faraday�s law
+(d) Coulomb�s law
+Answer: d
+59
+The value of electric permittivity of free space is
+(a) 9 � 10^9 NC^2/m^2
+(b) 8.85 � 10^�12 Nm^2/C^2 sec
+(c)8.85 � 10^�12 C^2/Nm^2
+(d) 9 � 10^9 C^2/Nm^2
+Answer: c
+60
+Coulomb�s law is true for
+(a) atomic distances (= 10�11 m)
+(b) nuclear distances (= 10�15 m)
+(c) charged as well as uncharged particles
+(d) all the distances
+Answer: d
+61
+What happens when some charge is placed on a soap bubble?
+(a) Its radius decreases
+(b) Its radius increases
+(c) The bubble collapses
+(d) None of these
+Answer: b
+62
+In general, metallic ropes are suspended on the carriers taking inflammable materials. The reason is
+(a) to control the speed of the carrier.
+(b) to keep the centre of gravity of the carrier nearer to the earth.
+(c) to keep the body of the carrier in contact with the earth.
+(d) none of these.
+Answer: c
+63
+Two charges q1 and q2 are placed in vacuum at a distance d and the force acting between them is F. If a medium of dielectric constant 4 is introduced around them, the force now will be
+(a) F
+(b) F/2
+(c) F/4
+(d) 4F
+Answer: c
+64
+Two similar spheres having +Q and -Q charges are kept at a certain distance. F force acts between the two. If at the middle of two spheres, another similar sphere having +Q charge is kept, then it experiences a force in magnitude and direction as
+(a) zero having no direction.
+(b) 8F towards +Q charge.
+(c) 8F towards -Q charge.
+(d) 4F towards +Q charge.
+Answer: c
+65
+A charge Q is divided into two parts of q and Q � q. If the coulomb repulsion between them when they are separated is to be maximum, the ratio of Q/q should be
+(a) 2:1
+(b) 1/2
+(c) 4:1
+(d) 1/4
+Answer: a
+66
+The electric field inside a spherical shell of uniform surface charge density is
+(a) zero.
+(b) constant, less than zero.
+(c) directly proportional to the distance from the centre.
+(d) none of the these
+Answer: a
+67
+Electric field at a point varies as r� for
+(a) an electric dipole
+(b) a point charge
+(c) a plane infinite sheet of charge
+(d) a line charge of infinite length
+Answer: c
+68
+The electric field intensity due to an infinite cylinder of radius R and having charge q per unit length at a distance air r (r > R) from its axis is
+(a) directly proportional to r^2.
+(b) directly proportional to r^3.
+(c) inversely proportional to r.
+(d) inversely proportional to r^2.
+Answer: c
+69
+The magnitude of electric field intensity E is such that, an electron placed in it would experience an electrical force equal to its weight is given by
+(a) mge
+(b) mg/e
+(c) e/mg
+(d) e^2g/m^2
+Answer: b
+70
+Which of the following statement is correct? The electric field at a point is
+(a) always continuous.
+(b) continuous if there is a charge at that point.
+(c) discontinuous only if there is a negative charge at that point.
+(d) discontinuous if there is a charge at that point.
+Answer: d
+71
+A point charge +q is placed at a distance d from an isolated conducting plane. The field at a point P on the other side of the plane is
+(a) directed perpendicular to the plane and away from the plane.
+(b) directed perpendicular to the plane but towards the plane.
+(c) directed radially away from the point charge.
+(d) directed radially towards the point charge.
+Answer: a
+72
+Gauss�s law will be invalid if
+(a) there is magnetic monopole.
+(b) the inverse square law is not exactly true.
+(c) the velocity of light is not a universal constant.
+(d) none of these.
+Answer: b
+73
+SI unit of permittivity of free space is
+(a) Farad
+(b) Weber
+(c) C^2N^-1 m^-2
+(d) C^2N^-1 m^-2
+Answer: c
+74
+The SI unit of electric flux is
+(a) N C^-1 m^-2
+(b) N C m^-2
+(c) N C^-2 m^2
+(d) N C^-1 m^2
+Answer: d
+75
+The force between two small charged spheres having charges of 1 � 10^�7 C and 2 �10^�7 C placed 20 cm apart in air is
+(a) 4.5 � 10^�2 N
+(b) 4.5 � 10^�3 N
+(c) 5.4 � 10^�2 N
+(d) 5.4 � 10^�3 N
+Answer: b
+76
+Two insulated charged metallic sphere P and Q have their centres separated by a distance of 60 cm. The radii of P and Q are negligible compared to the distance of separation. The mutual force of electrostatic repulsion if the charge on each is 3.2 � 10^�7 C is
+(a) 5.2 � 10^�4 N
+(b) 2.5 � 10^�3 N
+(c) 1.5 � 10^�3N
+(d) 3.5 � 10^�4 N
+Answer: b
+77
+An electric dipole is placed at an angle of 30� with an electric field of intensity 2 � 105 NC^�1, It experiences a torque of 4 Nm. Calculate the charge on the dipole if the dipole length is 2 cm.
+(a) 8 mC
+(b) 4 mC
+(c) 8 �C
+(d) 2 mC
+Answer: d
+78
+If the dipole of moment 2.57 � 10^�17 cm is placed into an electric field of magnitude 3.0 � 10^4 N/C such that the fields lines are aligned at 30^o with the line joining P to the dipole, what torque acts on the dipole?
+(a) 7.7 � 10^�13 Nm
+(b) 3.855 � 10^�13 Nm
+(c) 3.855 � 10^�15 Nm
+(d) 7.7 � 10^�15 Nm
+Answer: b

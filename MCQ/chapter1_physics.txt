@@ -1,0 +1,63 @@
+1
+The surface considered for Gauss's law is called
+(a) Closed surface
+(b) Spherical surface
+(c) Gaussian surface
+(d) Plane surface
+Answer: c
+2
+Which of the following statements is not true about Gauss's law?
+(a) Gauss's law is true for any closed surface.
+(b) The term q on the right side side of Gauss's law includes the sum of all charges enclosed by the surface.
+(c) Gauss's law is not much useful in calculating electrostatic field when the system has some symmetry.
+(d) Gauss's law is based on the inverse square dependence on distance contained in the coulomb's law
+Answer: c
+3
+A charge Q is placed at the centre of the line joining two point charges +q and +q as shown in the figure. The ratio of charges Q and q is
+(a) 4
+(b) 1/4
+(c) -4
+(d) -1/4
+Answer: d
+4
+The force per unit charge is known as
+(a) electric flux
+(b) electric field
+(c) electric potential
+(d) electric current
+Answer: b
+5
+Electric field lines provide information about
+(a) field strength
+(b) direction
+(c) nature of charge
+(d) all of these
+Answer: d
+6
+The SI unit of electric flux is
+(a) N C^-1 m^-2
+(b) N C m^-2
+(c) N C^-2 m^2
+(d) N C^-1 m^2
+Answer: d
+7
+The unit of electric dipole moment is
+(a) newton
+(b) coulomb
+(c) farad
+(d) debye
+Answer: d
+8
+Consider a region inside which, there are various types of charges but the total charge is zero. At points outside the region
+(a) the electric field is necessarily zero.
+(b) the electric field is due to the dipole moment of the charge distribution only.
+(c) the dominant electric field is inversely pro-portional to r3, for large r (distance from ori-gin).
+(d) the work done to move a charged particle along a closed path, away from the region will not be zero.
+Answer: c
+9
+SI unit of permittivity of free space is
+(a) Farad
+(b) Weber
+(c) C^2N^-1 m^-2
+(d) C^2N^-1 m^-2
+Answer: c
