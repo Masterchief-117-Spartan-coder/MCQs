@@ -6,12 +6,14 @@ def install(package):
     subprocess.check_call([sys.executable, "-m", "pip", "install", package])
 try:
     import pygame
+    import textwrap
 except:
     install("pygame")
     install("textwrap")
 finally:
     import math
     from Automated_MCQ import TESTING
+    import textwrap
     import os
     import re
     from SQL_assigner import sql_control_center
