@@ -21,7 +21,7 @@ finally:
 pygame.init()
 clock = pygame.time.Clock()
 clock.tick(60)
-pygame.display.set_caption('MCQs PROJECT [VERSION-0.1.8]')
+pygame.display.set_caption('MCQs PROJECT [VERSION-1.1.2]')
 
 
 class Game:
@@ -124,12 +124,13 @@ class Game:
                                     self.instruction_bool = False
                                     self.button_loc_bool = True
                     if self.testing_1_bool:
-                        for i in range(len(self.button_loc)):
-                            if self.button_loc[i][1] < mouse_tracker[1] < (self.button_loc[i][2]):
-                                if self.button_loc[i][0] < mouse_tracker[0] < (self.button_loc[i][3]):
-                                    self.intro_screen_bool = True
-                                    self.testing_1_bool = False
-                                    self.button_loc_bool = True
+                        if self.database_selection:
+                            for i in range(len(self.button_loc)):
+                                if self.button_loc[i][1] < mouse_tracker[1] < (self.button_loc[i][2]):
+                                    if self.button_loc[i][0] < mouse_tracker[0] < (self.button_loc[i][3]):
+                                        self.intro_screen_bool = True
+                                        self.testing_1_bool = False
+                                        self.button_loc_bool = True
                         for i in range(len(self.button_loc)):
                             if self.question_count == self.loop_count_question:
                                 if self.button_loc[i][1] < mouse_tracker[1] < (self.button_loc[i][2]):
@@ -237,9 +238,6 @@ class Game:
                                 pass
                             else:
                                 self.user_text3 += event.unicode
-
-                    if event.key == pygame.K_q:
-                        pass
 
             if self.loop_count_question >= self.question_count + 1:
                 self.testing_1_bool = False
@@ -370,7 +368,7 @@ class Game:
             if len(self.scanner_databases()) > 0:
                 for i in range(len(self.scanner_databases())):
                     self.continue_calculator(textwrap.fill(self.scanner_databases()[i], width=71), 0, loc=False,
-                                             x_axis=200, custom_position=True, separator=126 + i*12,
+                                             x_axis=80, custom_position=True, separator=126 + i*12,
                                              button=False, font2=pygame.font.Font('freesansbold.ttf', 10))
             else:
                 self.continue_calculator(textwrap.fill("EMPTY", width=71), 0, loc=False, x_axis=200,
