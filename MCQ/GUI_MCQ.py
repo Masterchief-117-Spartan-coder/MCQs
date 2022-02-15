@@ -165,7 +165,6 @@ class Game:
                             if event.key == pygame.K_ESCAPE:
                                 if len(self.user_text) > 3:
                                     self.name = self.user_text
-                                    self.profiler()
                                     self.user_text = ''
                                     self.accepted_message = 'ACCEPTED NAME'
                                     self.error = True
@@ -442,18 +441,6 @@ class Game:
             if re.search(self.user_text2, list_of_databases[i]) is not None:
                 identified.append(list_of_databases[i])
         return identified
-
-    def profiler(self):
-        path = os.getcwd()
-        try:
-            os.mkdir(path + f"/profiles")
-        except OSError:
-            pass
-        finally:
-            try:
-                os.mkdir(path + f"/profiles" + f"/{self.name}")
-            except OSError:
-                pass
 
     def sql_profiler(self):
         self.screen.fill((0, 0, 0))
