@@ -1,11 +1,20 @@
-import pygame
-import math
-import textwrap
+import subprocess
 import sys
-from Automated_MCQ import TESTING
-import os
-import re
-from SQL_assigner import sql_control_center
+
+
+def install(package):
+    subprocess.check_call([sys.executable, "-m", "pip", "install", package])
+try:
+    import pygame
+except:
+    install("pygame")
+    install("textwrap")
+finally:
+    import math
+    from Automated_MCQ import TESTING
+    import os
+    import re
+    from SQL_assigner import sql_control_center
 
 pygame.init()
 clock = pygame.time.Clock()
